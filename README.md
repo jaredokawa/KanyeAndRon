@@ -15,7 +15,7 @@ Welcome to the Quotes Conversation Simulator! This program offers a delightful e
 
 Upon launching the Quotes Conversation Simulator, witness a simulated conversation between Kanye West and Ron Swanson as their iconic quotes are randomly displayed. Enjoy the humor, wit, and distinctive personalities of these two figures in a single, amusing interaction.
 
-### Documentation and Support
+## Documentation and Support
 
 Explore the source code for a deeper understanding of the simulator's functionality. If you have questions, encounter issues, or wish to contribute, feel free to reach out or submit your contributions. Detailed documentation and guides are available within the codebase.
 
